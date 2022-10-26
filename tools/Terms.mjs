@@ -1,0 +1,9 @@
+export const APT = "apt";
+export const FLATPAK = "flatpak";
+export const GIT = "git";
+export const AUDIO = "audio";
+export const SOCIAL = "social";
+export const GAME = "game";
+export const TOOLS = "tools";
+export const PHOTO = "photo";
+export const DEVELOPMENT = "development";
